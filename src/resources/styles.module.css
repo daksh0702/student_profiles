@@ -1,0 +1,52 @@
+/* CARD */
+.card_center_container {
+  font-size: 40px;
+  font-weight: bold;
+  color: black;
+}
+
+.card_container {
+  padding: 15px 15px 15px 15px;
+  border-bottom: 1px solid #e3e2de;
+}
+
+.plus_minus_button {
+  font-size: 40px;
+}
+
+.input_tag {
+  border: none;
+  border-bottom: 1px solid #e3e2de;
+}
+
+.plus_minus_button_pos {
+  text-align: right;
+  margin-top: 10px;
+}
+
+.card_main_content {
+  margin-left: 25px;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.input_tag_container {
+  background-color: #e3e2de;
+  display: inline-block;
+  margin-right: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+/* APP */
+.search_input {
+  width: 98%;
+  height: 50px;
+  font-size: 18px;
+  font-weight: 300;
+  border: none;
+  border-bottom: 1px solid #e3e2de;
+  margin-left: 1%;
+  margin-right: 1%;
+}
